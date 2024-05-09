@@ -1,6 +1,6 @@
 # weibo_dataset
 ----------------------------------- 
-The self-used weibo dataset in ICUPN, including social network, spread path and cascades.
+The research-used weibo dataset in ICUPN, including social network, spread path and cascades.
 This is the raw data and it must be modified before use to remove duplicate datas.
 The cascade file contains the information of a certain message, the format of which is:
 
